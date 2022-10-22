@@ -1,3 +1,3 @@
 # Basic-REST-Api
 
-A simple REST-API 
+A simple PHP-based REST-API 
